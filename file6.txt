@@ -1,2 +1,1 @@
 Hello! This is about reverting
-Now, modified!
