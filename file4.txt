@@ -1,0 +1,2 @@
+File 4, now learning about Rebasing which is just nothing but instead of 
+merging we are just relocating our file to master branch
