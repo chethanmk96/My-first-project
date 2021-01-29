@@ -1,0 +1,2 @@
+Now master branch is replaced by main branch, so Deleted master branch using
+git branch -d master
